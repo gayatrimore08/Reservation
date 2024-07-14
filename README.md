@@ -1,5 +1,3 @@
-Meta Final Capstone Project under Meta Frontend Developer Certification 
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
